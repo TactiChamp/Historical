@@ -161,3 +161,386 @@ id,name,team,progressive_carries,progressive_passes,progressive_passes_received
 159,Trevoh Chalobah,Chelsea,0.4,3.66,0.2
 696,Tyrique George,Chelsea,4.5,1.5,11
 189,Wesley Fofana,Chelsea,1.46,2.46,0.31
+216,Adam Wharton,Crystal Palace,0.96,7.33,0.75
+646,Asher Agbinone,Crystal Palace,20,0,10
+160,Ben Chilwell,Crystal Palace,1.72,2.76,5.17
+666,Caleb Kporha,Crystal Palace,10,0,0
+195,Chadi Riad Dnanou,Crystal Palace,2,7,0
+193,Cheick Doucouré,Crystal Palace,0.4,3.8,1.4
+194,Chris Richards,Crystal Palace,0.28,1.82,0.09
+205,Daichi Kamada,Crystal Palace,1.44,5.11,3.22
+211,Daniel Muñoz,Crystal Palace,1.73,2.7,5.74
+201,Dean Henderson,Crystal Palace,0,0,0
+199,Eberechi Eze,Crystal Palace,2.4,3.37,5.31
+11,Eddie Nketiah,Crystal Palace,3.57,1.65,6.87
+585,Ismaïla Sarr,Crystal Palace,2.49,2.82,6.08
+207,Jean-Philippe Mateta,Crystal Palace,1.53,1.77,4.15
+206,Jefferson Lerma Solís,Crystal Palace,0.51,3.83,1.03
+214,Jeffrey Schlupp,Crystal Palace,3.64,4.55,8.18
+213,Jesurun Rak-Sakyi,Crystal Palace,1,4,1
+215,Joel Ward,Crystal Palace,0,1.25,1.25
+645,Justin Devenny,Crystal Palace,0.89,3.75,2.32
+200,Marc Guéhi,Crystal Palace,0.65,3.94,0.29
+208,Matheus França de Oliveira,Crystal Palace,6.67,5,6.67
+650,Maxence Lacroix,Crystal Palace,0.23,1.88,0.2
+196,Nathaniel Clyne,Crystal Palace,1.11,1.3,1.48
+730,Romain Esse,Crystal Palace,0.67,4.67,9.33
+210,Tyrick Mitchell,Crystal Palace,1.83,2.03,4.97
+203,Will Hughes,Crystal Palace,0.85,3.72,1.15
+217,Abdoulaye Doucouré,Everton,1.47,2.88,3.37
+156,Armando Broja,Everton,3.24,0.54,7.03
+238,Ashley Young,Everton,1.15,4.33,1.54
+218,Norberto Bercique Gomes Betuncal,Everton,0.88,0.94,4.53
+450,Carlos Alcaraz Durán,Everton,2.24,4.94,2.47
+220,Dominic Calvert-Lewin,Everton,1.28,1.12,6.26
+230,Dwight McNeil,Everton,2.5,4.54,5.26
+603,Harrison Armstrong,Everton,2,2,0
+222,Idrissa Gueye,Everton,0.79,4.26,0.79
+232,Iliman Ndiaye,Everton,3.19,2.19,4.52
+224,Jack Harrison,Everton,3.16,2.21,5.5
+582,Jake O'Brien,Everton,0.4,2.86,1.43
+223,James Garner,Everton,0.85,2.82,1.69
+236,James Tarkowski,Everton,0.28,2.31,0.09
+219,Jarrad Branthwaite,Everton,0.36,2.37,0.07
+577,Jesper Lindstrøm,Everton,2.17,1.81,5.87
+235,Jordan Pickford,Everton,0,0,0
+225,Mason Holgate,Everton,0,0,0
+228,Michael Keane,Everton,0.09,1.2,0.26
+234,Nathan Patterson,Everton,1.54,3.33,4.62
+651,Orel Mangala,Everton,0.43,2.43,1.36
+627,Roman Dixon,Everton,0,0,1
+221,Séamus Coleman,Everton,0.42,4.58,2.92
+226,Tim Iroegbunam,Everton,1.25,2.34,1.41
+231,Vitalii Mykolenko,Everton,0.96,3.22,2.89
+237,Youssef Ramalho Chermiti,Everton,0,2,12
+239,Adama Traoré,Fulham,5.08,3.45,8.17
+247,Alex Iwobi,Fulham,4.35,6.44,7.43
+240,Andreas Hoelgebaum Pereira,Fulham,1.29,4.64,3.62
+255,Antonee Robinson,Fulham,3.35,3.72,7.78
+248,Bernd Leno,Fulham,0,0,0
+241,Calvin Bassey,Fulham,1.14,3.39,0.44
+258,Carlos Vinícius Alves Morais,Fulham,5,0,15
+19,Emile Smith Rowe,Fulham,2.33,5.55,5.59
+254,Harrison Reed,Fulham,0.83,3.33,5.83
+259,Harry Wilson,Fulham,1.71,3.95,7.44
+245,Issa Diop,Fulham,0.4,1.68,0.2
+256,Jay Stansfield,Fulham,0,0,0
+191,Joachim Andersen,Fulham,0.56,3.9,0.07
+586,Jorge Cuenca Barreno,Fulham,0,2.56,0
+604,Josh King,Fulham,2.14,6.43,11.4
+257,Kenny Tete,Fulham,1.73,3.2,2.74
+605,Martial Godo,Fulham,6.67,10,20
+252,Raúl Jiménez,Fulham,1.26,2.24,4.51
+10,Reiss Nelson,Fulham,8.33,6.48,11.7
+251,Rodrigo Muniz Carvalho,Fulham,0.56,2.52,2.9
+579,Ryan Sessegnon,Fulham,2.81,3.44,9.22
+622,Sander Berge,Fulham,1.17,5.02,0.36
+249,Saša Lukić,Fulham,1.5,3.77,1.27
+244,Timothy Castagne,Fulham,0.93,3.39,3.66
+243,Tom Cairney,Fulham,2.57,7.57,4.71
+772,Willian Borges da Silva,Fulham,3.79,13.8,11.4
+764,Alex Palmer,Ipswich,0,0.08,0
+260,Ali Al-Hamadi,Ipswich,2.67,2,9.33
+568,Arijanet Muric,Ipswich,0,0.06,0
+282,Axel Tuanzebe,Ipswich,0.53,3.21,0.79
+715,Ben Godfrey,Ipswich,1.11,2.22,0.56
+275,Ben Johnson,Ipswich,1.07,1.8,2.2
+263,Cameron Burgess,Ipswich,0.12,2.46,0.23
+632,Chiedozie Ogbene,Ipswich,2.69,0,5.77
+283,Christian Walton,Ipswich,0,0,0
+265,Conor Chaplin,Ipswich,1.37,3.05,2.42
+583,Conor Townsend,Ipswich,0.54,2.16,3.51
+630,Dara O'Shea,Ipswich,0.09,2.31,0.23
+269,George Edmundson,Ipswich,0,0,0
+272,George Hirst,Ipswich,1.23,1.78,4.25
+266,Harry Clarke,Ipswich,1.19,3.33,0.48
+631,Jack Clarke,Ipswich,2.98,3.36,4.35
+281,Jack Taylor,Ipswich,1.15,4.48,2.4
+270,Jacob Greaves,Ipswich,0.45,2.82,0.45
+569,Jaden Philogene,Ipswich,2.45,1.89,6.79
+619,Jens Cajuste,Ipswich,1.19,2.71,0.92
+121,Julio Enciso,Ipswich,2.37,2.89,4.54
+359,Kalvin Phillips,Ipswich,0.29,3.72,0.29
+267,Leif Davis,Ipswich,1.7,1.93,4.49
+268,Liam Delap,Ipswich,2.12,1.04,3.82
+284,Luke Woolfenden,Ipswich,0.53,1.14,0
+271,Marcus Myers-Harness,Ipswich,0,4,2
+277,Massimo Luongo,Ipswich,0,2.73,0.45
+262,Nathan Broadhead,Ipswich,2.56,1.79,4.23
+274,Omari Giraud-Hutchinson,Ipswich,3.38,2.61,5.54
+278,Sam Morsy,Ipswich,0.72,3.92,0.42
+611,Sam Szmodics,Ipswich,1.45,1.73,4.27
+570,Abdul Fatawu,Leicester,6.56,2.66,9.38
+635,Bilal El Khannouss,Leicester,3.02,5.29,3.68
+290,Bobby De Cordova-Reid,Leicester,1.69,1.81,5.78
+285,Boubakary Soumaré,Leicester,1.41,4.36,0.95
+301,Caleb Okoli,Leicester,0.24,2.56,0.16
+288,Conor Coady,Leicester,0.16,1.68,0
+308,Danny Ward,Leicester,0,0,0
+117,Facundo Buonanotte,Leicester,2.31,3.2,4.38
+287,Hamza Choudhury,Leicester,2.67,2,4
+309,Harry Winks,Leicester,1.11,5.91,0.64
+304,Jakub Stolarczyk,Leicester,0,0.1,0
+295,James Justin,Leicester,1.2,2.81,2.96
+306,Jamie Vardy,Leicester,0.92,0.7,3.82
+307,Jannik Vestergaard,Leicester,0.19,2.06,0.13
+192,Jordan Ayew,Leicester,2.69,2.53,4.73
+299,Kasey McAteer,Leicester,2,1.47,7.47
+305,Luke Thomas,Leicester,0.41,3.01,1.3
+293,Mads Hermansen,Leicester,0,0.04,0
+198,Odsonne Edouard,Leicester,0,3.33,6.67
+501,Oliver Skipp,Leicester,1.28,2.8,1.52
+289,Patson Daka,Leicester,1.34,0.98,4.39
+302,Ricardo Barbosa Pereira,Leicester,0.7,4.19,1.16
+298,Stephy Mavididi,Leicester,5.08,3.18,7.71
+296,Victor Kristiansen,Leicester,1.45,2.54,2.83
+300,Wilfred Ndidi,Leicester,0.7,2.71,2.91
+291,Wout Faes,Leicester,0.38,2.75,0.03
+726,Woyo Coulibaly,Leicester,3.33,2.5,1.67
+329,Alexis Mac Allister,Liverpool,1.25,6.12,2.77
+310,Alisson Ramses Becker,Liverpool,0,0.04,0
+335,Andrew Robertson,Liverpool,2.32,6.38,3.91
+325,Caoimhin Kelleher,Liverpool,0,0,0
+321,Cody Gakpo,Liverpool,2.74,2.42,12.9
+313,Conor Bradley,Liverpool,4.17,3.93,4.64
+324,Curtis Jones,Liverpool,1.58,6.16,4.16
+316,Darwin Núñez Ribeiro,Liverpool,1.83,2.14,6.19
+317,Diogo Teixeira da Silva,Liverpool,2.78,2.56,6.62
+336,Dominik Szoboszlai,Liverpool,2.6,4.73,4.58
+320,Endo Wataru,Liverpool,0.33,6.33,2.67
+636,Federico Chiesa,Liverpool,2.5,2.5,5.83
+319,Harvey Elliott,Liverpool,2.44,10.7,7.32
+326,Ibrahima Konaté,Liverpool,0.88,4.05,0.11
+333,Jarell Quansah,Liverpool,0.55,3.45,0.73
+709,Jayden Danns,Liverpool,0,0,0
+322,Joe Gomez,Liverpool,0.86,6.03,0.34
+337,Konstantinos Tsimikas,Liverpool,1.83,8.17,4.62
+327,Luis Díaz,Liverpool,4.04,4.12,11
+328,Mohamed Salah,Liverpool,4.11,3.84,13
+323,Ryan Gravenberch,Liverpool,1.99,5.16,1.57
+311,Trent Alexander-Arnold,Liverpool,1.94,8.82,3.57
+339,Virgil van Dijk,Liverpool,0.59,5.35,0.16
+660,Vítezslav Jaros,Liverpool,0,0,0
+732,Abdukodir Khusanov,Man City,0.18,4.46,0.36
+342,Bernardo Veiga de Carvalho e Silva,Man City,3.4,4.51,6.73
+698,Divin Mubama,Man City,0,3.33,0
+347,Ederson Santana de Moraes,Man City,0,0.08,0
+351,Erling Haaland,Man City,0.79,0.66,4.08
+625,Ilkay Gündogan,Man City,2.59,5.14,3.89
+349,Jack Grealish,Man City,8.63,6.5,14.8
+672,Jahmai Simpson-Pusey,Man City,0.91,2.73,0
+357,James McAtee,Man City,1.79,1.79,8.21
+346,Jérémy Doku,Man City,12.7,4.11,17
+362,John Stones,Man City,1.64,3.44,0.33
+350,Joško Gvardiol,Man City,2.5,7.25,3.32
+345,Kevin De Bruyne,Man City,2.7,8.31,7.94
+363,Kyle Walker,Man City,1.11,5.93,1.02
+340,Manuel Akanji,Man City,2.05,7.05,0.31
+354,Mateo Kovačić,Man City,2.3,6.72,0.66
+356,Matheus Luiz Nunes,Man City,3.39,4.25,9.41
+703,Max Alleyne,Man City,1.6,6.67,0.27
+341,Nathan Aké,Man City,1.6,6.67,0.27
+607,Nico O'Reilly,Man City,2.71,2.88,4.41
+765,Nico González,Man City,1.07,5.95,1.31
+755,Omar Marmoush,Man City,2.21,2.82,5.95
+343,Oscar Bobb,Man City,5,5,5
+348,Phil Foden,Man City,2.54,5.23,6.5
+355,Rico Lewis,Man City,1.86,5.1,3.71
+360,Rodrigo 'Rodri' Hernandez,Man City,1.25,5,1.25
+361,Rúben Gato Alves Dias,Man City,1.71,6.35,0.32
+571,Sávio 'Savinho' Moreira de Oliveira,Man City,6.99,3.42,12.6
+358,Stefan Ortega Moreno,Man City,0,0,0
+733,Vitor de Oliveira Nunes dos Reis,Man City,0,0,0
+372,Alejandro Garnacho,Man Utd,5.78,2.3,11.9
+367,Altay Bayindir,Man Utd,0,0,0
+364,Amad Diallo,Man Utd,5.17,2.84,9.48
+383,André Onana,Man Utd,0,0.03,0
+365,Antony Matheus dos Santos,Man Utd,3.13,3.75,4.38
+658,Ayden Heaven,Man Utd,0.53,3.68,0.53
+366,Bruno Borges Fernandes,Man Utd,2.3,9.7,3.85
+368,Carlos Henrique Casimiro,Man Utd,0.24,5.06,1.69
+776,Chido Obi-Martin,Man Utd,1.11,0.56,6.67
+370,Christian Eriksen,Man Utd,1.1,4.66,2.46
+369,Diogo Dalot Teixeira,Man Utd,1.98,3.29,5.37
+670,Harry Amass,Man Utd,2.37,1.84,6.05
+377,Harry Maguire,Man Utd,0.36,2.62,0.36
+371,Jonny Evans,Man Utd,0.86,2.86,0.86
+389,Joshua Zirkzee,Man Utd,0.9,2.82,4.42
+378,Kobbie Mainoo,Man Utd,1.2,3.55,2.57
+572,Leny Yoro,Man Utd,1.47,4.03,0.31
+380,Lisandro Martínez,Man Utd,1.18,6,0.36
+387,Luke Shaw,Man Utd,1.79,6.15,1.79
+652,Manuel Ugarte,Man Utd,0.81,3.08,1.01
+382,Mason Mount,Man Utd,2.17,4.78,5.94
+593,Matthijs de Ligt,Man Utd,0.3,2.33,0.25
+594,Noussair Mazraoui,Man Utd,1.33,3.65,1.84
+766,Patrick Dorgu,Man Utd,4.36,3.62,8.83
+375,Rasmus Højlund,Man Utd,1.26,0.81,4.53
+613,Toby Collyer,Man Utd,0,2.5,1
+777,Tyler Fredricson,Man Utd,1.11,4.44,0
+379,Tyrell Malacia,Man Utd,2.73,2.73,5.45
+376,Victor Lindelöf,Man Utd,0.64,3.33,0.51
+401,Alexander Isak,Newcastle,2.71,2.88,7.09
+398,Anthony Gordon,Newcastle,4.48,3.63,7.93
+394,Bruno Guimarães Rodriguez Moura,Newcastle,1.76,7.47,2.64
+421,Callum Wilson,Newcastle,1.22,0.98,4.15
+395,Dan Burn,Newcastle,0.32,2.03,0.38
+405,Emil Krafth,Newcastle,1.32,2.11,0.79
+415,Fabian Schär,Newcastle,0.55,3.62,0.67
+392,Harvey Barnes,Newcastle,4.77,4.26,9.85
+402,Jacob Murphy,Newcastle,3.02,3.17,8.82
+420,Joe Willock,Newcastle,3.14,3.39,7.11
+403,Joelinton Cássio Apolinário de Lira,Newcastle,1.5,4.36,4.14
+418,Kieran Trippier,Newcastle,1.79,8.07,4
+399,Lewis Hall,Newcastle,1.69,5.06,3.29
+411,Lewis Miley,Newcastle,0.57,4.86,2.29
+404,Lloyd Kelly,Newcastle,0,2.65,1.47
+396,Martin Dúbravka,Newcastle,0,0,0
+416,Matt Targett,Newcastle,0,0,5
+391,Miguel Almirón Rejala,Newcastle,1.76,3.53,10.6
+413,Nick Pope,Newcastle,0,0.04,0
+417,Sandro Tonali,Newcastle,1.27,4.38,1.82
+410,Sean Longstaff,Newcastle,0.45,4.49,2.47
+393,Sven Botman,Newcastle,0,1.52,0
+409,Tino Livramento,Newcastle,2.63,5,3.77
+590,William Osula,Newcastle,3.33,2.67,11.3
+26,Álex Moreno Lopera,Nott'm Forest,2.45,3.21,3.21
+432,Anthony Elanga,Nott'm Forest,3.67,2.27,8.24
+434,Callum Hudson-Odoi,Nott'm Forest,5.33,2.91,7.75
+447,Chris Wood,Nott'm Forest,0.43,1.28,2.86
+429,Danilo dos Santos de Oliveira,Nott'm Forest,0.65,3.55,0.32
+423,Elliot Anderson,Nott'm Forest,1.72,4.72,3.14
+428,Eric da Silva Moreira,Nott'm Forest,3.33,0,3.33
+444,Harry Toffolo,Nott'm Forest,0,1.33,2.67
+442,Ibrahim Sangaré,Nott'm Forest,0.15,4.09,0.61
+596,João Pedro Ferreira Silva,Nott'm Forest,2.21,1.89,6.21
+443,Matz Sels,Nott'm Forest,0.03,0.05,0
+653,Felipe Rodrigues da Silva morato,Nott'm Forest,0.1,1.88,0.1
+433,Morgan Gibbs-White,Nott'm Forest,2.22,5.27,4.37
+436,Murillo Santiago Costa dos Santos,Nott'm Forest,0.62,3.25,0.14
+437,Neco Williams,Nott'm Forest,2.36,3.09,3.58
+431,Nicolás Domínguez,Nott'm Forest,0.73,3.81,1.51
+573,Nikola Milenković,Nott'm Forest,0.08,1.38,0.16
+422,Ola Aina,Nott'm Forest,2.01,3.21,2.01
+620,Ramón Sosa,Nott'm Forest,3.64,1.82,5.15
+449,Ryan Yates,Nott'm Forest,0.85,2.49,0.75
+424,Taiwo Awoniyi,Nott'm Forest,1.3,1.52,4.35
+425,Willy Boly,Nott'm Forest,0,1.18,0
+14,Aaron Ramsdale,Southampton,0,0,0
+453,Adam Armstrong,Southampton,1.8,1.51,5.68
+463,Adam Lallana,Southampton,1.5,6,2.5
+734,Albert Grønbæk,Southampton,0.63,0.63,1.88
+469,Alex McCarthy,Southampton,0,0,0
+456,Armel Bella-Kotchap,Southampton,0,1.35,0
+584,Ben Brereton Díaz,Southampton,2.4,1.8,8.4
+27,Cameron Archer,Southampton,1.38,0.88,4.13
+475,Charlie Taylor,Southampton,0.75,2.25,1.75
+518,Flynn Downes,Southampton,1.21,2.76,1.21
+472,Jack Stephens,Southampton,0.91,4.09,0.13
+457,James Bree,Southampton,1.09,2.86,3.61
+455,Jan Bednarek,Southampton,0.18,2.14,0.07
+719,Joachim Kayi-Sanda,Southampton,2,0.67,6.67
+452,Joe Aribo,Southampton,1.61,3.35,2.9
+466,Joe Lumley,Southampton,0,0,0
+462,Kamaldeen Sulemana,Southampton,4.04,1.73,5.58
+476,Kyle Walker-Peters,Southampton,3.52,4.29,4.44
+188,Lesley Ugochukwu,Southampton,1.58,2.66,1.09
+623,Mateus Gonçalo Espanha Fernandes,Southampton,2.35,4.49,3.34
+477,Nathan Wood-Gordon,Southampton,0.23,1.98,0
+470,Paul Onuachu,Southampton,0.6,1.11,3.42
+473,Ross Stewart,Southampton,0.7,0.47,2.33
+397,Ryan Fraser,Southampton,2.94,2.35,5.29
+467,Ryan Manning,Southampton,0.86,2.16,4.57
+461,Taylor Harwood-Bellis,Southampton,0.92,3.98,0.29
+608,Tyler Dibling,Southampton,3.32,3.08,4.62
+718,Welington Damascena Santos,Southampton,0.93,2.04,3.52
+471,Will Smallbone,Southampton,0.65,3.51,3.25
+474,Sugawara Yukinari,Southampton,1.91,4.16,4.51
+699,Alfie Dorrington,Spurs,0,0,0
+716,Antonín Kinsky,Spurs,0.17,0.17,0
+489,Archie Gray,Spurs,0.36,2.05,0.87
+484,Ben Davies,Spurs,0.95,3.51,0.41
+479,Brandon Austin,Spurs,0,0,0
+491,Brennan Johnson,Spurs,2.48,2.93,8.14
+498,Cristian Romero,Spurs,0.76,4.52,0.19
+500,Dane Scarlett,Spurs,2.5,2.5,2.5
+492,Dejan Kulusevski,Spurs,4.53,4.68,7.92
+505,Destiny Udogie,Spurs,2.52,5.65,4.39
+504,Djed Spence,Spurs,2.96,5.28,3.52
+82,Dominic Solanke-Mitchell,Spurs,1.27,1.92,3.59
+488,Fraser Forster,Spurs,0,0,0
+508,Guglielmo Vicario,Spurs,0,0.04,0
+494,James Maddison,Spurs,2.24,8.16,4.73
+767,Kevin Danso,Spurs,1.17,2.02,0.11
+481,Lucas Bergvall,Spurs,2.44,3.63,2.3
+768,Mathys Tel,Spurs,2.77,2.08,7.13
+506,Micky van de Ven,Spurs,0.71,4.51,0.09
+610,Mikey Moore,Spurs,2.93,2.2,9.76
+499,Pape Matar Sarr,Spurs,1.55,4.13,2.49
+495,Pedro Porro,Spurs,2.24,5.31,3.76
+486,Radu Drăgușin,Spurs,0.5,2.66,0.14
+497,Richarlison de Andrade,Spurs,1.43,1.96,3.93
+480,Rodrigo Bentancur,Spurs,1.53,5.46,1.86
+496,Sergio Reguilón,Spurs,2.27,5.91,5.45
+503,Son Heung-min,Spurs,4.1,4.74,11.3
+509,Timo Werner,Spurs,7.37,5.26,15.6
+612,Wilson Odobert,Spurs,4.79,2.87,7.02
+482,Yves Bissouma,Spurs,0.96,4.81,0.19
+517,Aaron Cresswell,West Ham,0.65,3.91,0.43
+388,Aaron Wan-Bissaka,West Ham,3.14,4.26,4.77
+513,Alphonse Areola,West Ham,0,0.04,0
+576,Andy Irving,West Ham,0,5,2.22
+654,Carlos Soler,West Ham,1.08,3.57,2.36
+587,Crysencio Summerville,West Ham,3.33,2.07,8.16
+523,Danny Ings,West Ham,1.88,1.56,9.06
+511,Edson Álvarez,West Ham,1.22,4.31,0.91
+520,Emerson Palmieri dos Santos,West Ham,2,2.81,3.53
+123,Evan Ferguson,West Ham,0.59,0.59,4.12
+588,Guido Rodríguez,West Ham,0.31,2.58,0.55
+531,James Ward-Prowse,West Ham,0.96,4.7,0.78
+514,Jarrod Bowen,West Ham,3.3,2.76,6.42
+591,Jean-Clair Todibo,West Ham,0.44,1.87,0.25
+643,Kaelan Casey,West Ham,0,0,0
+528,Konstantinos Mavropanos,West Ham,0.75,2.69,0.09
+701,Lewis Orford,West Ham,0,0,2
+527,Lucas Tolentino Coelho de Lima,West Ham,0.98,5.87,3.22
+526,Luis Guilherme Lira dos Santos,West Ham,2.35,2.94,9.41
+521,Łukasz Fabiański,West Ham,0,0,0
+524,Max Kilman,West Ham,0.83,3.04,0.16
+512,Michail Antonio,West Ham,3.12,1.94,6.34
+525,Mohammed Kudus,West Ham,3.4,2.74,7.5
+589,Niclas Füllkrug,West Ham,0.8,1.59,3.52
+677,Ollie Scarles,West Ham,1.62,2.97,5.95
+530,Tomáš Souček,West Ham,0.32,2.6,2.39
+516,Vladimír Coufal,West Ham,2.18,3.28,2.77
+664,Alfie Pond,Wolves,0,0,0
+642,André Trindade da Costa Neto,Wolves,0.36,3.96,0.4
+534,Boubacar Traoré,Wolves,0,0,0
+655,Carlos Roberto Forbs Borges,Wolves,3.7,2.96,10.4
+542,Craig Dawson,Wolves,0.56,1.85,0.46
+536,Daniel Bentley,Wolves,0,0,0
+562,Daniel Castelo Podence,Wolves,2,4,6
+720,Emmanuel Agbadou,Wolves,0.38,1.97,0.13
+548,Gonçalo Manuel Ganchinho Guedes,Wolves,3.69,3.6,7.12
+550,Hwang Hee-chan,Wolves,2.05,1.64,5.75
+535,Jean-Ricner Bellegarde,Wolves,2.8,2.31,4.78
+553,João Victor Gomes da Silva,Wolves,1.79,5,2.3
+566,Jørgen Strand Larsen,Wolves,0.59,1.01,3.9
+554,José Malheiro de Sá,Wolves,0,0.07,0
+557,Mario Lemina,Wolves,0.53,3.16,1.38
+770,Marshall Munetsi,Wolves,0.75,0.83,2.92
+784,Mateus Mané,Wolves,0,0,0
+541,Matheus Santos Carneiro Da Cunha,Wolves,3.88,4.98,5.57
+543,Matt Doherty,Wolves,1.24,3.38,1.75
+769,Nasser Djiga,Wolves,0,4.29,2.86
+559,Nélson Cabral Semedo,Wolves,2.09,2.49,3.71
+565,Pablo Sarabia,Wolves,1.67,6.67,6.89
+561,Pedro Cardoso de Lima,Wolves,5,5,13.8
+533,Rayan Aït-Nouri,Wolves,2.58,3.13,5.1
+563,Rodrigo Martins Gomes,Wolves,2.56,3,9
+204,Sam Johnstone,Wolves,0,0,0
+564,Santiago Bueno,Wolves,0.05,1.5,0.05
+556,Tom King,Wolves,0,0,0
+544,Tommy Doyle,Wolves,1.11,7.41,0.74
+567,Toti António Gomes,Wolves,0.93,2.97,0.62
+558,Yerson Mosquera,Wolves,0,1.43,0
