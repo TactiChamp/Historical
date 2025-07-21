@@ -1,739 +1,659 @@
-id,name,team
-1,Fábio Ferreira Vieira,Arsenal
-2,Gabriel Fernando de Jesus,Arsenal
-3,Gabriel dos Santos Magalhães,Arsenal
-4,Kai Havertz,Arsenal
-5,Karl Hein,Arsenal
-6,Jurriën Timber,Arsenal
-7,Jorge Luiz Frello Filho,Arsenal
-8,Jakub Kiwior,Arsenal
-9,Gabriel Martinelli Silva,Arsenal
-12,Ethan Nwaneri,Arsenal
-13,Martin Ødegaard,Arsenal
-15,David Raya Martin,Arsenal
-16,Declan Rice,Arsenal
-17,Bukayo Saka,Arsenal
-18,William Saliba,Arsenal
-20,Thomas Partey,Arsenal
-21,Kieran Tierney,Arsenal
-22,Tomiyasu Takehiro,Arsenal
-23,Leandro Trossard,Arsenal
-24,Benjamin White,Arsenal
-25,Oleksandr Zinchenko,Arsenal
-73,Norberto Murara Neto,Arsenal
-186,Raheem Sterling,Arsenal
-578,Riccardo Calafiori,Arsenal
-597,Myles Lewis-Skelly,Arsenal
-633,Mikel Merino,Arsenal
-638,Salah-Eddine Oulad M'hand,Arsenal
-639,Tommy Setford,Arsenal
-657,Maldini Kacurri,Arsenal
-659,Ismeal Kabia,Arsenal
-662,Josh Nichols,Arsenal
-665,Nathan Butler-Oyedeji,Arsenal
-28,Leon Bailey,Aston Villa
-29,Ross Barkley,Aston Villa
-30,Enzo Barrenechea,Aston Villa
-31,Emiliano Buendía Stati,Aston Villa
-32,Matty Cash,Aston Villa
-33,Leander Dendoncker,Aston Villa
-34,Moussa Diaby,Aston Villa
-35,Diego Carlos Santos Silva,Aston Villa
-36,Lucas Digne,Aston Villa
-37,Lewis Dobbin,Aston Villa
-38,Jhon Durán,Aston Villa
-39,Joe Gauci,Aston Villa
-40,Kortney Hause,Aston Villa
-41,Samuel Iling-Junior,Aston Villa
-42,Boubacar Kamara,Aston Villa
-43,Kaine Kesler-Hayden,Aston Villa
-44,Ezri Konsa Ngoyo,Aston Villa
-45,Ian Maatsen,Aston Villa
-46,Filip Marschall,Aston Villa
-47,Emiliano Martínez Romero,Aston Villa
-48,John McGinn,Aston Villa
-49,Tyrone Mings,Aston Villa
-50,Kosta Nedeljković,Aston Villa
-51,Robin Olsen,Aston Villa
-52,Pau Torres,Aston Villa
-53,Jacob Ramsey,Aston Villa
-54,Morgan Rogers,Aston Villa
-55,Viljami Sinisalo,Aston Villa
-56,Lino da Cruz Sousa,Aston Villa
-57,Youri Tielemans,Aston Villa
-58,Ollie Watkins,Aston Villa
-167,Axel Disasi,Aston Villa
-233,Amadou Onana,Aston Villa
-598,Lamare Bogarde,Aston Villa
-640,Sil Swinkels,Aston Villa
-641,Oliwier Zych,Aston Villa
-656,Kadan Young,Aston Villa
-679,Ben Broggio,Aston Villa
-385,Marcus Rashford,Aston Villa
-762,Marco Asensio,Aston Villa
-725,Donyell Malen,Aston Villa
-731,Andrés García,Aston Villa
-710,Jamaldeen Jimoh,Aston Villa
-59,Max Aarons,Bournemouth
-60,Tyler Adams,Bournemouth
-61,Jaidon Anthony,Bournemouth
-62,David Brooks,Bournemouth
-63,Ryan Christie,Bournemouth
-64,Lewis Cook,Bournemouth
-65,Enes Ünal,Bournemouth
-66,Romain Faivre,Bournemouth
-67,Hamed Traorè,Bournemouth
-68,James Hill,Bournemouth
-69,Daniel Jebbison,Bournemouth
-70,Milos Kerkez,Bournemouth
-71,Justin Kluivert,Bournemouth
-72,Chris Mepham,Bournemouth
-74,Dango Ouattara,Bournemouth
-75,Alex Paulsen,Bournemouth
-76,Philip Billing,Bournemouth
-77,Alex Scott,Bournemouth
-78,Antoine Semenyo,Bournemouth
-79,Marcos Senesi,Bournemouth
-80,Luis Sinisterra,Bournemouth
-81,Adam Smith,Bournemouth
-83,Marcus Tavernier,Bournemouth
-84,Mark Travers,Bournemouth
-85,Illia Zabarnyi,Bournemouth
-152,Kepa Arrizabalaga,Bournemouth
-580,Dean Huijsen,Bournemouth
-592,Julián Araujo Zúñiga,Bournemouth
-599,Will Dennis,Bournemouth
-617,Francisco Evanilson de Lima Barbosa,Bournemouth
-680,Max Kinsey,Bournemouth
-687,Ben Winterburn,Bournemouth
-702,Archie Harris,Bournemouth
-707,Remy Rees-Dottin,Bournemouth
-712,Matai Akinmboni,Bournemouth
-728,Zain Silcott-Duberry,Bournemouth
-713,Julio Soler,Bournemouth
-86,Kristoffer Ajer,Brentford
-87,Ethan Brierley,Brentford
-88,Nathan Collins,Brentford
-89,Mikkel Damsgaard,Brentford
-90,Josh Dasilva,Brentford
-91,Mark Flekken,Brentford
-92,Rico Henry,Brentford
-93,Aaron Hickey,Brentford
-94,Vitaly Janelt,Brentford
-95,Mathias Jensen,Brentford
-96,Kim Ji-soo,Brentford
-97,Yunus Emre Konak,Brentford
-98,Keane Lewis-Potter,Brentford
-99,Bryan Mbeumo,Brentford
-100,Ben Mee,Brentford
-101,Christian NÃ¸rgaard,Brentford
-102,Frank Onyeka,Brentford
-103,Myles Peart-Harris,Brentford
-104,Ethan Pinnock,Brentford
-105,Mads Roerslev Rasmussen,Brentford
-106,Kevin Schade,Brentford
-107,Igor Thiago Nascimento Rodrigues,Brentford
-108,Ivan Toney,Brentford
-109,HÃ¡kon Valdimarsson,Brentford
-110,Yoane Wissa,Brentford
-111,Yehor Yarmoliuk,Brentford
-112,Mathias Jorgensen,Brentford
-314,FÃ¡bio Freitas Gouveia Carvalho,Brentford
-338,Sepp van den Berg,Brentford
-602,Ryan Trevitt,Brentford
-634,Gustavo Nunes Fernandes Gomes,Brentford
-649,Jayden Meghoma,Brentford
-661,Tony Yogane,Brentford
-674,Paris Maghoma,Brentford
-705,Benjamin Arthur,Brentford
-113,Simon Adingra,Brighton
-114,Benicio Baker-Boaitey,Brighton
-115,Carlos Baleba,Brighton
-116,Valentín Barco,Brighton
-118,Amario Cozier-Duberry,Brighton
-119,Mahmoud Dahoud,Brighton
-120,Lewis Dunk,Brighton
-121,Julio Enciso,Brighton
-122,Pervis Estupiñán,Brighton
-123,Evan Ferguson,Brighton
-124,Billy Gilmour,Brighton
-125,Pascal Groß,Brighton
-126,Jack Hinshelwood,Brighton
-127,Ibrahim Osman,Brighton
-128,Igor Julio dos Santos de Paulo,Brighton
-129,João Pedro Junqueira de Jesus,Brighton
-130,Kacper Kozłowski,Brighton
-131,Tariq Lamptey,Brighton
-132,Solly March,Brighton
-133,Adrian Mazilu,Brighton
-134,James Milner,Brighton
-135,Yankuba Minteh,Brighton
-136,Mitoma Kaoru,Brighton
-137,Jakub Moder,Brighton
-138,Mark O’Mahony,Brighton
-139,Odeluga Offiah,Brighton
-140,Cameron Peupion,Brighton
-141,Jeremy Sarmiento Morante,Brighton
-142,Jason Steele,Brighton
-143,Deniz Undav,Brighton
-144,Jan Paul van Hecke,Brighton
-145,Joël Veltman,Brighton
-146,Bart Verbruggen,Brighton
-147,Adam Webster,Brighton
-148,Danny Welbeck,Brighton
-149,Mats Wieffer,Brighton
-595,Brajan Gruda,Brighton
-600,Yasin Ayari,Brighton
-601,Andrew Moran,Brighton
-615,Carl Rushworth,Brighton
-618,Georginio Rutter,Brighton
-628,Ferdi Kadioglu,Brighton
-629,Matt O'Riley,Brighton
-663,Imari Samuels,Brighton
-668,Killian Cahill,Brighton
-681,Ruairi McConville,Brighton
-685,Jacob Slater,Brighton
-714,Diego Gómez,Brighton
-150,Andrey Nascimento dos Santos,Chelsea
-151,Ângelo Gabriel Borges Damaceno,Chelsea
-153,Benoît Badiashile,Chelsea
-154,Lucas Bergström,Chelsea
-155,Marcus Bettinelli,Chelsea
-157,Moisés Caicedo Corozo,Chelsea
-158,Cesare Casadei,Chelsea
-159,Trevoh Chalobah,Chelsea
-161,Carney Chukwuemeka,Chelsea
-162,Levi Colwill,Chelsea
-163,Marc Cucurella Saseta,Chelsea
-164,David Datro Fofana,Chelsea
-165,Deivid Washington de Souza Eugênio,Chelsea
-166,Kiernan Dewsbury-Hall,Chelsea
-168,Enzo Fernández,Chelsea
-169,Conor Gallagher,Chelsea
-170,Alfie Gilchrist,Chelsea
-171,Malo Gusto,Chelsea
-172,Reece James,Chelsea
-173,Omari Kellyman,Chelsea
-174,Roméo Lavia,Chelsea
-175,Romelu Lukaku Bolingoli,Chelsea
-176,Malang Sarr,Chelsea
-177,Noni Madueke,Chelsea
-178,Marc Guiu Paz,Chelsea
-179,Mykhailo Mudryk,Chelsea
-180,Nicolas Jackson,Chelsea
-181,Christopher Nkunku,Chelsea
-182,Cole Palmer,Chelsea
-183,Đorđe Petrović,Chelsea
-184,Renato Palma Veiga,Chelsea
-185,Robert Sánchez,Chelsea
-187,Tosin Adarabioyo,Chelsea
-189,Wesley Fofana,Chelsea
-386,Jadon Sancho,Chelsea
-560,Pedro Lomba Neto,Chelsea
-575,Caleb Wiley,Chelsea
-581,Filip Jørgensen,Chelsea
-621,João Félix Sequeira,Chelsea
-695,Samuel Rak-Sakyi,Chelsea
-696,Tyrique George,Chelsea
-697,Josh Acheampong,Chelsea
-781,Shumaira Mheuka,Chelsea
-11,Eddie Nketiah,Crystal Palace
-190,Naouirou Ahamada,Crystal Palace
-193,Cheick Doucouré,Crystal Palace
-194,Chris Richards,Crystal Palace
-195,Chadi Riad Dnanou,Crystal Palace
-196,Nathaniel Clyne,Crystal Palace
-197,Malcolm Ebiowei,Crystal Palace
-199,Eberechi Eze,Crystal Palace
-200,Marc Guéhi,Crystal Palace
-201,Dean Henderson,Crystal Palace
-202,Rob Holding,Crystal Palace
-203,Will Hughes,Crystal Palace
-205,Daichi Kamada,Crystal Palace
-206,Jefferson Lerma Solís,Crystal Palace
-207,Jean-Philippe Mateta,Crystal Palace
-208,Matheus França de Oliveira,Crystal Palace
-209,Remi Matthews,Crystal Palace
-210,Tyrick Mitchell,Crystal Palace
-211,Daniel Muñoz,Crystal Palace
-212,David Ozoh,Crystal Palace
-213,Jesurun Rak-Sakyi,Crystal Palace
-214,Jeffrey Schlupp,Crystal Palace
-215,Joel Ward,Crystal Palace
-216,Adam Wharton,Crystal Palace
-445,Matt Turner,Crystal Palace
-585,Ismaïla Sarr,Crystal Palace
-644,Franco Umeh-Chibueze,Crystal Palace
-645,Justin Devenny,Crystal Palace
-646,Asher Agbinone,Crystal Palace
-647,Kaden Rodney,Crystal Palace
-650,Maxence Lacroix,Crystal Palace
-666,Caleb Kporha,Crystal Palace
-676,Zach Marsh,Crystal Palace
-730,Romain Esse,Crystal Palace
-160,Ben Chilwell,Crystal Palace
-156,Armando Broja,Everton
-217,Abdoulaye DoucourÃ©,Everton
-218,Norberto Bercique Gomes Betuncal,Everton
-219,Jarrad Branthwaite,Everton
-220,Dominic Calvert-Lewin,Everton
-221,SÃ©amus Coleman,Everton
-222,Idrissa Gueye,Everton
-223,James Garner,Everton
-224,Jack Harrison,Everton
-225,Mason Holgate,Everton
-226,Tim Iroegbunam,Everton
-227,JoÃ£o Neves VirgÃ­nia,Everton
-228,Michael Keane,Everton
-229,Neal Maupay,Everton
-230,Dwight McNeil,Everton
-231,Vitalii Mykolenko,Everton
-232,Iliman Ndiaye,Everton
-234,Nathan Patterson,Everton
-235,Jordan Pickford,Everton
-236,James Tarkowski,Everton
-237,Youssef Ramalho Chermiti,Everton
-238,Ashley Young,Everton
-577,Jesper LindstrÃ¸m,Everton
-582,Jake O'Brien,Everton
-603,Harrison Armstrong,Everton
-614,Jenson Metcalfe,Everton
-624,Asmir Begovic,Everton
-627,Roman Dixon,Everton
-651,Orel Mangala,Everton
-450,Carlos Alcaraz DurÃ¡n,Everton
-678,Callum Bates,Everton
-10,Reiss Nelson,Fulham
-19,Emile Smith Rowe,Fulham
-191,Joachim Andersen,Fulham
-239,Adama Traoré,Fulham
-240,Andreas Hoelgebaum Pereira,Fulham
-241,Calvin Bassey,Fulham
-242,Steven Benda,Fulham
-243,Tom Cairney,Fulham
-244,Timothy Castagne,Fulham
-245,Issa Diop,Fulham
-246,Luke Harris,Fulham
-247,Alex Iwobi,Fulham
-248,Bernd Leno,Fulham
-249,Saša Lukić,Fulham
-250,Kevin Mbabu,Fulham
-251,Rodrigo Muniz Carvalho,Fulham
-252,Raúl Jiménez,Fulham
-253,Tim Ream,Fulham
-254,Harrison Reed,Fulham
-255,Antonee Robinson,Fulham
-256,Jay Stansfield,Fulham
-257,Kenny Tete,Fulham
-258,Carlos Vinícius Alves Morais,Fulham
-259,Harry Wilson,Fulham
-579,Ryan Sessegnon,Fulham
-586,Jorge Cuenca Barreno,Fulham
-604,Josh King,Fulham
-605,Martial Godo,Fulham
-622,Sander Berge,Fulham
-690,Samuel Amissah,Fulham
-260,Ali Al-Hamadi,Ipswich
-261,Elkan Baggott,Ipswich
-262,Nathan Broadhead,Ipswich
-263,Cameron Burgess,Ipswich
-264,Wes Burns,Ipswich
-265,Conor Chaplin,Ipswich
-266,Harry Clarke,Ipswich
-267,Leif Davis,Ipswich
-268,Liam Delap,Ipswich
-269,George Edmundson,Ipswich
-270,Jacob Greaves,Ipswich
-271,Marcus Myers-Harness,Ipswich
-272,George Hirst,Ipswich
-273,Cameron Humphreys,Ipswich
-274,Omari Giraud-Hutchinson,Ipswich
-275,Ben Johnson,Ipswich
-276,Freddie Ladapo,Ipswich
-277,Massimo Luongo,Ipswich
-278,Sam Morsy,Ipswich
-279,Corrie Ndaba,Ipswich
-280,Cieran Slicker,Ipswich
-281,Jack Taylor,Ipswich
-282,Axel Tuanzebe,Ipswich
-283,Christian Walton,Ipswich
-284,Luke Woolfenden,Ipswich
-359,Kalvin Phillips,Ipswich
-568,Arijanet Muric,Ipswich
-583,Conor Townsend,Ipswich
-611,Sam Szmodics,Ipswich
-619,Jens Cajuste,Ipswich
-630,Dara O'Shea,Ipswich
-631,Jack Clarke,Ipswich
-632,Chiedozie Ogbene,Ipswich
-715,Ben Godfrey,Ipswich
-569,Jaden Philogene,Ipswich
-764,Alex Palmer,Ipswich
-117,Facundo Buonanotte,Leicester
-192,Jordan Ayew,Leicester
-198,Odsonne Edouard,Leicester
-285,Boubakary SoumarÃ©,Leicester
-286,Tom Cannon,Leicester
-287,Hamza Choudhury,Leicester
-288,Conor Coady,Leicester
-289,Patson Daka,Leicester
-290,Bobby De Cordova-Reid,Leicester
-291,Wout Faes,Leicester
-292,Michael Golding,Leicester
-293,Mads Hermansen,Leicester
-294,Daniel Iversen,Leicester
-295,James Justin,Leicester
-296,Victor Kristiansen,Leicester
-297,Wanya MarÃ§al-MadivÃ¡dua,Leicester
-298,Stephy Mavididi,Leicester
-299,Kasey McAteer,Leicester
-300,Wilfred Ndidi,Leicester
-301,Caleb Okoli,Leicester
-302,Ricardo Barbosa Pereira,Leicester
-303,Harry Souttar,Leicester
-304,Jakub Stolarczyk,Leicester
-305,Luke Thomas,Leicester
-306,Jamie Vardy,Leicester
-307,Jannik Vestergaard,Leicester
-308,Danny Ward,Leicester
-309,Harry Winks,Leicester
-501,Oliver Skipp,Leicester
-570,Abdul Fatawu,Leicester
-606,Will Alves,Leicester
-616,Ben Nelson,Leicester
-635,Bilal El Khannouss,Leicester
-694,Henry Cartwright,Leicester
-726,Woyo Coulibaly,Leicester
-708,Thomas Wilson-Brown,Leicester
-310,Alisson Ramses Becker,Liverpool
-311,Trent Alexander-Arnold,Liverpool
-312,Stefan Bajčetić Maquieira,Liverpool
-313,Conor Bradley,Liverpool
-315,Bobby Clark,Liverpool
-316,Darwin Núñez Ribeiro,Liverpool
-317,Diogo Teixeira da Silva,Liverpool
-318,Ben Doak,Liverpool
-319,Harvey Elliott,Liverpool
-320,Endo Wataru,Liverpool
-321,Cody Gakpo,Liverpool
-322,Joe Gomez,Liverpool
-323,Ryan Gravenberch,Liverpool
-324,Curtis Jones,Liverpool
-325,Caoimhin Kelleher,Liverpool
-326,Ibrahima Konaté,Liverpool
-327,Luis Díaz,Liverpool
-328,Mohamed Salah,Liverpool
-329,Alexis Mac Allister,Liverpool
-330,James McConnell,Liverpool
-331,Tyler Morton,Liverpool
-332,Nathaniel Phillips,Liverpool
-333,Jarell Quansah,Liverpool
-334,Rhys Williams,Liverpool
-335,Andrew Robertson,Liverpool
-336,Dominik Szoboszlai,Liverpool
-337,Konstantinos Tsimikas,Liverpool
-339,Virgil van Dijk,Liverpool
-636,Federico Chiesa,Liverpool
-660,Vítezslav Jaros,Liverpool
-669,Harvey Davies,Liverpool
-688,Treymaurice Nyoni,Liverpool
-692,Amara Nallo,Liverpool
-709,Jayden Danns,Liverpool
-340,Manuel Akanji,Man City
-341,Nathan Aké,Man City
-342,Bernardo Veiga de Carvalho e Silva,Man City
-343,Oscar Bobb,Man City
-344,Scott Carson,Man City
-345,Kevin De Bruyne,Man City
-346,Jérémy Doku,Man City
-347,Ederson Santana de Moraes,Man City
-348,Phil Foden,Man City
-349,Jack Grealish,Man City
-350,Joško Gvardiol,Man City
-351,Erling Haaland,Man City
-352,Julián Álvarez,Man City
-353,João Cavaco Cancelo,Man City
-354,Mateo Kovačić,Man City
-355,Rico Lewis,Man City
-356,Matheus Luiz Nunes,Man City
-357,James McAtee,Man City
-358,Stefan Ortega Moreno,Man City
-360,Rodrigo 'Rodri' Hernandez,Man City
-361,Rúben Gato Alves Dias,Man City
-362,John Stones,Man City
-363,Kyle Walker,Man City
-571,Sávio 'Savinho' Moreira de Oliveira,Man City
-607,Nico O'Reilly,Man City
-625,Ilkay Gündogan,Man City
-626,Issa Kaboré,Man City
-671,Jacob Wright,Man City
-672,Jahmai Simpson-Pusey,Man City
-675,Josh Wilson-Esbrand,Man City
-698,Divin Mubama,Man City
-703,Max Alleyne,Man City
-733,Vitor de Oliveira Nunes dos Reis,Man City
-755,Omar Marmoush,Man City
-765,Nico González,Man City
-732,Abdukodir Khusanov,Man City
-704,Spike Brits,Man City
-364,Amad Diallo,Man Utd
-365,Antony Matheus dos Santos,Man Utd
-366,Bruno Borges Fernandes,Man Utd
-367,Altay Bayindir,Man Utd
-368,Carlos Henrique Casimiro,Man Utd
-369,Diogo Dalot Teixeira,Man Utd
-370,Christian Eriksen,Man Utd
-371,Jonny Evans,Man Utd
-372,Alejandro Garnacho,Man Utd
-373,Hannibal Mejbri,Man Utd
-374,Tom Heaton,Man Utd
-375,Rasmus Højlund,Man Utd
-376,Victor Lindelöf,Man Utd
-377,Harry Maguire,Man Utd
-378,Kobbie Mainoo,Man Utd
-379,Tyrell Malacia,Man Utd
-380,Lisandro Martínez,Man Utd
-381,Scott McTominay,Man Utd
-382,Mason Mount,Man Utd
-383,André Onana,Man Utd
-384,Facundo Pellistri Rebollo,Man Utd
-387,Luke Shaw,Man Utd
-389,Joshua Zirkzee,Man Utd
-572,Leny Yoro,Man Utd
-593,Matthijs de Ligt,Man Utd
-594,Noussair Mazraoui,Man Utd
-613,Toby Collyer,Man Utd
-648,Ethan Wheatley,Man Utd
-652,Manuel Ugarte,Man Utd
-658,Ayden Heaven,Man Utd
-667,Jack Fletcher,Man Utd
-670,Harry Amass,Man Utd
-673,Jayce Fitzgerald,Man Utd
-691,Godwill Kukonki,Man Utd
-766,Patrick Dorgu,Man Utd
-390,Alex Murphy,Newcastle
-391,Miguel Almirón Rejala,Newcastle
-392,Harvey Barnes,Newcastle
-393,Sven Botman,Newcastle
-394,Bruno Guimarães Rodriguez Moura,Newcastle
-395,Dan Burn,Newcastle
-396,Martin Dúbravka,Newcastle
-398,Anthony Gordon,Newcastle
-399,Lewis Hall,Newcastle
-400,Isaac Hayden,Newcastle
-401,Alexander Isak,Newcastle
-402,Jacob Murphy,Newcastle
-403,Joelinton Cássio Apolinário de Lira,Newcastle
-404,Lloyd Kelly,Newcastle
-405,Emil Krafth,Newcastle
-406,Garang Kuol,Newcastle
-407,Jamaal Lascelles,Newcastle
-408,Jamal Lewis,Newcastle
-409,Tino Livramento,Newcastle
-410,Sean Longstaff,Newcastle
-411,Lewis Miley,Newcastle
-412,Odysseas Vlachodimos,Newcastle
-413,Nick Pope,Newcastle
-414,John Ruddy,Newcastle
-415,Fabian Schär,Newcastle
-416,Matt Targett,Newcastle
-417,Sandro Tonali,Newcastle
-418,Kieran Trippier,Newcastle
-419,Joe White,Newcastle
-420,Joe Willock,Newcastle
-421,Callum Wilson,Newcastle
-574,Miodrag Pivaš,Newcastle
-590,William Osula,Newcastle
-26,Álex Moreno Lopera,Nott'm Forest
-422,Ola Aina,Nott'm Forest
-423,Elliot Anderson,Nott'm Forest
-424,Taiwo Awoniyi,Nott'm Forest
-425,Willy Boly,Nott'm Forest
-426,Josh Bowler,Nott'm Forest
-427,Carlos Miguel dos Santos Pereira,Nott'm Forest
-428,Eric da Silva Moreira,Nott'm Forest
-429,Danilo dos Santos de Oliveira,Nott'm Forest
-430,Emmanuel Dennis,Nott'm Forest
-431,Nicolás Domínguez,Nott'm Forest
-432,Anthony Elanga,Nott'm Forest
-433,Morgan Gibbs-White,Nott'm Forest
-434,Callum Hudson-Odoi,Nott'm Forest
-435,Alex Mighten,Nott'm Forest
-436,Murillo Santiago Costa dos Santos,Nott'm Forest
-437,Neco Williams,Nott'm Forest
-438,Omar Richards,Nott'm Forest
-439,Lewis O'Brien,Nott'm Forest
-440,Andrew Omobamidele,Nott'm Forest
-441,Jonathan Panzo,Nott'm Forest
-442,Ibrahim Sangaré,Nott'm Forest
-443,Matz Sels,Nott'm Forest
-444,Harry Toffolo,Nott'm Forest
-446,Hwang Ui-jo,Nott'm Forest
-447,Chris Wood,Nott'm Forest
-448,Joe Worrall,Nott'm Forest
-449,Ryan Yates,Nott'm Forest
-531,James Ward-Prowse,Nott'm Forest
-573,Nikola Milenković,Nott'm Forest
-596,João Pedro Ferreira Silva,Nott'm Forest
-620,Ramón Sosa,Nott'm Forest
-653,Felipe Rodrigues da Silva morato,Nott'm Forest
-706,Zach Abbott,Nott'm Forest
-14,Aaron Ramsdale,Southampton
-27,Cameron Archer,Southampton
-188,Lesley Ugochukwu,Southampton
-397,Ryan Fraser,Southampton
-451,Samuel Amo-Ameyaw,Southampton
-452,Joe Aribo,Southampton
-453,Adam Armstrong,Southampton
-454,Gavin Bazunu,Southampton
-455,Jan Bednarek,Southampton
-456,Armel Bella-Kotchap,Southampton
-457,James Bree,Southampton
-458,Shea Charles,Southampton
-459,Samuel Edozie,Southampton
-460,Ronnie Edwards,Southampton
-461,Taylor Harwood-Bellis,Southampton
-462,Kamaldeen Sulemana,Southampton
-463,Adam Lallana,Southampton
-464,Juan Larios LÃ³pez,Southampton
-465,Mateusz Lis,Southampton
-466,Joe Lumley,Southampton
-467,Ryan Manning,Southampton
-468,SÃ©kou Mara,Southampton
-469,Alex McCarthy,Southampton
-470,Paul Onuachu,Southampton
-471,Will Smallbone,Southampton
-472,Jack Stephens,Southampton
-473,Ross Stewart,Southampton
-474,Sugawara Yukinari,Southampton
-475,Charlie Taylor,Southampton
-476,Kyle Walker-Peters,Southampton
-477,Nathan Wood-Gordon,Southampton
-515,Maxwel Cornet,Southampton
-518,Flynn Downes,Southampton
-584,Ben Brereton DÃ­az,Southampton
-608,Tyler Dibling,Southampton
-623,Mateus GonÃ§alo Espanha Fernandes,Southampton
-693,Joseph O'Brien-Whitmarsh,Southampton
-734,Albert Grønbæk,Southampton
-718,Welington Damascena Santos,Southampton
-82,Dominic Solanke-Mitchell,Spurs
-478,Ashley Phillips,Spurs
-479,Brandon Austin,Spurs
-480,Rodrigo Bentancur,Spurs
-481,Lucas Bergvall,Spurs
-482,Yves Bissouma,Spurs
-483,Bryan Gil Salvatierra,Spurs
-484,Ben Davies,Spurs
-485,Alfie Devine,Spurs
-486,Radu Drăgușin,Spurs
-487,Emerson Leite de Souza Junior,Spurs
-488,Fraser Forster,Spurs
-489,Archie Gray,Spurs
-490,Pierre-Emile Højbjerg,Spurs
-491,Brennan Johnson,Spurs
-492,Dejan Kulusevski,Spurs
-493,Giovani Lo Celso,Spurs
-494,James Maddison,Spurs
-495,Pedro Porro,Spurs
-496,Sergio Reguilón,Spurs
-497,Richarlison de Andrade,Spurs
-498,Cristian Romero,Spurs
-499,Pape Matar Sarr,Spurs
-500,Dane Scarlett,Spurs
-502,Manor Solomon,Spurs
-503,Son Heung-min,Spurs
-504,Djed Spence,Spurs
-505,Destiny Udogie,Spurs
-506,Micky van de Ven,Spurs
-507,Alejo Véliz,Spurs
-508,Guglielmo Vicario,Spurs
-509,Timo Werner,Spurs
-510,Alfie Whiteman,Spurs
-609,Will Lankshear,Spurs
-610,Mikey Moore,Spurs
-612,Wilson Odobert,Spurs
-683,Callum Olusesi,Spurs
-684,Malachi Hardy,Spurs
-689,Luca Williams-Barnett,Spurs
-699,Alfie Dorrington,Spurs
-700,Maeson King,Spurs
-716,Antonín Kinsky,Spurs
-717,Min-Hyeok Yang,Spurs
-729,Damola Ajayi,Spurs
-767,Kevin Danso,Spurs
-768,Mathys Tel,Spurs
-388,Aaron Wan-Bissaka,West Ham
-511,Edson Álvarez,West Ham
-512,Michail Antonio,West Ham
-513,Alphonse Areola,West Ham
-514,Jarrod Bowen,West Ham
-516,VladimÃ­r Coufal,West Ham
-517,Aaron Cresswell,West Ham
-519,George Earthy,West Ham
-520,Emerson Palmieri dos Santos,West Ham
-521,Åukasz FabiaÅ„ski,West Ham
-522,Wes Foderingham,West Ham
-523,Danny Ings,West Ham
-524,Max Kilman,West Ham
-525,Mohammed Kudus,West Ham
-526,Luis Guilherme Lira dos Santos,West Ham
-527,Lucas Tolentino Coelho de Lima,West Ham
-528,Konstantinos Mavropanos,West Ham
-529,Nayef Aguerd,West Ham
-530,TomÃ¡Å¡ SouÄek,West Ham
-532,Kurt Zouma,West Ham
-576,Andy Irving,West Ham
-587,Crysencio Summerville,West Ham
-588,Guido RodrÃ­guez,West Ham
-589,Niclas FÃ¼llkrug,West Ham
-591,Jean-Clair Todibo,West Ham
-643,Kaelan Casey,West Ham
-654,Carlos Soler,West Ham
-677,Ollie Scarles,West Ham
-686,Ezra Mayers,West Ham
-701,Lewis Orford,West Ham
-204,Sam Johnstone,Wolves
-533,Rayan Aït-Nouri,Wolves
-534,Boubacar Traoré,Wolves
-535,Jean-Ricner Bellegarde,Wolves
-536,Daniel Bentley,Wolves
-537,Francisco Jorge Tomás Oliveira,Wolves
-538,Tawanda Chirewa,Wolves
-539,Leon Chiwome,Wolves
-540,Luke Cundle,Wolves
-541,Matheus Santos Carneiro Da Cunha,Wolves
-542,Craig Dawson,Wolves
-543,Matt Doherty,Wolves
-544,Tommy Doyle,Wolves
-545,Fábio Silva,Wolves
-546,Nathan Fraser,Wolves
-547,Enso González,Wolves
-548,Gonçalo Manuel Ganchinho Guedes,Wolves
-549,Hugo Bueno López,Wolves
-550,Hwang Hee-chan,Wolves
-551,Joe Hodge,Wolves
-552,Ki-Jana Hoever,Wolves
-553,João Victor Gomes da Silva,Wolves
-554,José Malheiro de Sá,Wolves
-555,Saša Kalajdžić,Wolves
-556,Tom King,Wolves
-557,Mario Lemina,Wolves
-558,Yerson Mosquera,Wolves
-559,Nélson Cabral Semedo,Wolves
-561,Pedro Cardoso de Lima,Wolves
-562,Daniel Castelo Podence,Wolves
-563,Rodrigo Martins Gomes,Wolves
-564,Santiago Bueno,Wolves
-565,Pablo Sarabia,Wolves
-566,Jørgen Strand Larsen,Wolves
-567,Toti António Gomes,Wolves
-637,Bastien Meupiyou,Wolves
-642,André Trindade da Costa Neto,Wolves
-655,Carlos Roberto Forbs Borges,Wolves
-664,Alfie Pond,Wolves
-682,Tom Edozie,Wolves
-711,Wes Okoduwa,Wolves
-720,Emmanuel Agbadou,Wolves
-769,Nasser Djiga,Wolves
-770,Marshall Munetsi,Wolves
+id,name,team,25-Aug-25
+1,David Raya Martín,Arsenal,
+2,Kepa Arrizabalaga Revuelta,Arsenal,
+3,Karl Hein,Arsenal,
+4,Tommy Setford,Arsenal,
+5,Gabriel dos Santos Magalhães,Arsenal,
+6,William Saliba,Arsenal,
+7,Riccardo Calafiori,Arsenal,
+8,Jurriën Timber,Arsenal,
+9,Jakub Kiwior,Arsenal,
+10,Myles Lewis-Skelly,Arsenal,
+11,Benjamin White,Arsenal,
+12,Oleksandr Zinchenko,Arsenal,
+13,Brayden Clarke,Arsenal,
+14,Maldini Kacurri,Arsenal,
+15,Josh Nichols,Arsenal,
+16,Bukayo Saka,Arsenal,
+17,Martin Ødegaard,Arsenal,
+18,Noni Madueke,Arsenal,
+19,Gabriel Martinelli Silva,Arsenal,
+20,Leandro Trossard,Arsenal,
+21,Declan Rice,Arsenal,
+22,Mikel Merino Zazón,Arsenal,
+23,Fábio Ferreira Vieira,Arsenal,
+24,Christian Nørgaard,Arsenal,
+25,Ethan Nwaneri,Arsenal,
+26,Martín Zubimendi Ibáñez,Arsenal,
+27,Reiss Nelson,Arsenal,
+28,Ismeal Kabia,Arsenal,
+29,Albert Sambi Lokonga,Arsenal,
+30,Kai Havertz,Arsenal,
+31,Gabriel Fernando de Jesus,Arsenal,
+32,Emiliano Martínez Romero,Aston Villa,
+33,Marco Bizot,Aston Villa,
+34,Joe Gauci,Aston Villa,
+35,Filip Marschall,Aston Villa,
+36,Matty Cash,Aston Villa,
+37,Lucas Digne,Aston Villa,
+38,Ezri Konsa Ngoyo,Aston Villa,
+39,Ian Maatsen,Aston Villa,
+40,Tyrone Mings,Aston Villa,
+41,Pau Torres,Aston Villa,
+42,Andrés García,Aston Villa,
+43,Álex Moreno Lopera,Aston Villa,
+44,Lamare Bogarde,Aston Villa,
+45,Lino da Cruz Sousa,Aston Villa,
+46,Yasin Özcan,Aston Villa,
+47,Morgan Rogers,Aston Villa,
+48,Youri Tielemans,Aston Villa,
+49,Leon Bailey,Aston Villa,
+50,Emiliano Buendía Stati,Aston Villa,
+51,Samuel Iling-Junior,Aston Villa,
+52,Jacob Ramsey,Aston Villa,
+53,Donyell Malen,Aston Villa,
+54,John McGinn,Aston Villa,
+55,Ross Barkley,Aston Villa,
+56,Enzo Barrenechea,Aston Villa,
+57,Lewis Dobbin,Aston Villa,
+58,Boubacar Kamara,Aston Villa,
+59,Amadou Onana,Aston Villa,
+60,Ben Broggio,Aston Villa,
+61,Leander Dendoncker,Aston Villa,
+62,Jamaldeen Jimoh-Aloba,Aston Villa,
+63,Kadan Young,Aston Villa,
+64,Ollie Watkins,Aston Villa,
+65,Zépiqueno Redmond,Aston Villa,
+182,James Trafford,Burnley,
+183,Max Weiß,Burnley,
+184,Etienne Green,Burnley,
+185,Václav Hladký,Burnley,
+186,Connor Roberts,Burnley,
+187,Kyle Walker,Burnley,
+188,Hannes Delcroix,Burnley,
+189,Owen Dodgson,Burnley,
+190,Hjalmar Ekdal,Burnley,
+191,Maxime Estève,Burnley,
+192,Quilindschy Hartman,Burnley,
+193,Bashir Humphreys,Burnley,
+194,Jordan Beyer,Burnley,
+195,Lucas Pires Silva,Burnley,
+196,Shurandy Sambo,Burnley,
+197,Oliver Sonne,Burnley,
+198,Axel Tuanzebe,Burnley,
+199,Joe Worrall,Burnley,
+200,Jaidon Anthony,Burnley,
+201,Manuel Benson Hedilazio,Burnley,
+202,Jacob Bruun Larsen,Burnley,
+203,Enock Agyei,Burnley,
+204,Darko Churlinov,Burnley,
+205,Josh Cullen,Burnley,
+206,Marcus Edwards,Burnley,
+207,Hannibal Mejbri,Burnley,
+208,Luca Koleosho,Burnley,
+209,Josh Laurent,Burnley,
+210,Loum Tchaouna,Burnley,
+211,Aaron Ramsey,Burnley,
+212,Oluwaseun Adewumi,Burnley,
+213,Jaydon Banel,Burnley,
+214,Mike Trésor Ndayishimiye,Burnley,
+215,Zian Flemming,Burnley,
+216,Zeki Amdouni,Burnley,
+217,Lyle Foster,Burnley,
+218,Ashley Barnes,Burnley,
+219,Michael Obafemi,Burnley,
+66,Norberto Murara Neto,Bournemouth,
+67,Đorđe Petrović,Bournemouth,
+68,Will Dennis,Bournemouth,
+69,Callan McKenna,Bournemouth,
+70,Alex Paulsen,Bournemouth,
+71,Illia Zabarnyi,Bournemouth,
+72,Marcos Senesi Barón,Bournemouth,
+73,Adam Smith,Bournemouth,
+74,Adrien Truffert,Bournemouth,
+75,Matai Akinmboni,Bournemouth,
+76,Owen Bevan,Bournemouth,
+77,James Hill,Bournemouth,
+78,Julián Araujo Zúñiga,Bournemouth,
+79,Chris Mepham,Bournemouth,
+80,Julio Soler Barreto,Bournemouth,
+81,Justin Kluivert,Bournemouth,
+82,Antoine Semenyo,Bournemouth,
+83,Dango Ouattara,Bournemouth,
+84,Marcus Tavernier,Bournemouth,
+85,Tyler Adams,Bournemouth,
+86,David Brooks,Bournemouth,
+87,Ryan Christie,Bournemouth,
+88,Lewis Cook,Bournemouth,
+89,Philip Billing,Bournemouth,
+90,Alex Scott,Bournemouth,
+91,Luis Sinisterra Lucumí,Bournemouth,
+92,Romain Faivre,Bournemouth,
+93,Hamed Traorè,Bournemouth,
+94,Dominic Sadi,Bournemouth,
+95,Zain Silcott-Duberry,Bournemouth,
+96,Ben Winterburn,Bournemouth,
+97,Francisco Evanilson de Lima Barbosa,Bournemouth,
+98,Enes Ünal,Bournemouth,
+99,Daniel Adu-Adjei,Bournemouth,
+100,Eli Junior Kroupi,Bournemouth,
+101,Caoimhín Kelleher,Brentford,
+102,Ellery Balcombe,Brentford,
+103,Matthew Cox,Brentford,
+104,Julian Eyestone,Brentford,
+105,Hákon Rafn Valdimarsson,Brentford,
+106,Nathan Collins,Brentford,
+107,Keane Lewis-Potter,Brentford,
+108,Kristoffer Ajer,Brentford,
+109,Rico Henry,Brentford,
+110,Michael Kayode,Brentford,
+111,Ethan Pinnock,Brentford,
+112,Mads Roerslev Rasmussen,Brentford,
+113,Sepp van den Berg,Brentford,
+114,Benjamin Arthur,Brentford,
+115,Benjamin Fredrick,Brentford,
+116,Aaron Hickey,Brentford,
+117,Kim Ji-soo,Brentford,
+118,Jayden Meghoma,Brentford,
+119,Bryan Mbeumo,Brentford,
+120,Kevin Schade,Brentford,
+121,Mikkel Damsgaard,Brentford,
+122,Antoni Milambo,Brentford,
+123,Fábio Freitas Gouveia Carvalho,Brentford,
+124,Jordan Henderson,Brentford,
+125,Vitaly Janelt,Brentford,
+126,Mathias Jensen,Brentford,
+127,Gustavo Nunes Fernandes Gomes,Brentford,
+128,Frank Onyeka,Brentford,
+129,Yehor Yarmoliuk,Brentford,
+130,Romelle Donovan,Brentford,
+131,Yunus Emre Konak,Brentford,
+132,Paris Maghoma,Brentford,
+133,Myles Peart-Harris,Brentford,
+134,Ryan Trevitt,Brentford,
+135,Yoane Wissa,Brentford,
+136,Igor Thiago Nascimento Rodrigues,Brentford,
+137,Iwan Morgan,Brentford,
+138,Jason Steele,Brighton,
+139,Bart Verbruggen,Brighton,
+140,Tom McGill,Brighton,
+141,Carl Rushworth,Brighton,
+142,Kjell Scherpen,Brighton,
+143,Olivier Boscagli,Brighton,
+144,Diego Coppola,Brighton,
+145,Maxim De Cuyper,Brighton,
+146,Lewis Dunk,Brighton,
+147,Pervis Estupiñán Tenorio,Brighton,
+148,Ferdi Kadıoğlu,Brighton,
+149,Igor Julio dos Santos de Paulo,Brighton,
+150,Tariq Lamptey,Brighton,
+151,Jan Paul van Hecke,Brighton,
+152,Joël Veltman,Brighton,
+153,Adam Webster,Brighton,
+154,Eiran Cashin,Brighton,
+155,Jacob Slater,Brighton,
+156,Charlie Tasker,Brighton,
+157,Mitoma Kaoru,Brighton,
+158,Georginio Rutter,Brighton,
+159,Solly March,Brighton,
+160,Yankuba Minteh,Brighton,
+161,Julio Enciso Espínola,Brighton,
+162,Brajan Gruda,Brighton,
+163,Jack Hinshelwood,Brighton,
+164,Matt O'Riley,Brighton,
+165,Abdallah Sima,Brighton,
+166,Yasin Ayari,Brighton,
+167,Carlos Baleba,Brighton,
+168,Facundo Buonanotte,Brighton,
+169,Diego Gómez Amarilla,Brighton,
+170,James Milner,Brighton,
+171,Jeremy Sarmiento Morante,Brighton,
+172,Tom Watson,Brighton,
+173,Mats Wieffer,Brighton,
+174,Malick Yalcouyé,Brighton,
+175,Joe Knight,Brighton,
+176,Adrian Mazilu,Brighton,
+177,Andrew Moran,Brighton,
+178,Danny Welbeck,Brighton,
+179,Evan Ferguson,Brighton,
+180,Stefanos Tzimas,Brighton,
+181,Charalampos Kostoulas,Brighton,
+220,Robert Lynch Sánchez,Chelsea,
+221,Filip Jörgensen,Chelsea,
+222,Mike Penders,Chelsea,
+223,Gabriel Słonina,Chelsea,
+224,Marc Cucurella Saseta,Chelsea,
+225,Reece James,Chelsea,
+226,Trevoh Chalobah,Chelsea,
+227,Levi Samuels Colwill,Chelsea,
+228,Malo Gusto,Chelsea,
+229,Benoît Badiashile Mukinayi,Chelsea,
+230,Wesley Fofana,Chelsea,
+231,Mamadou Sarr,Chelsea,
+232,Tosin Adarabioyo,Chelsea,
+233,Josh Acheampong,Chelsea,
+234,Aarón Anselmino,Chelsea,
+235,Cole Palmer,Chelsea,
+236,Pedro Lomba Neto,Chelsea,
+237,Enzo Fernández,Chelsea,
+238,Estêvão Almeida de Oliveira Gonçalves,Chelsea,
+239,Jamie Bynoe-Gittens,Chelsea,
+240,Christopher Nkunku,Chelsea,
+241,Moisés Caicedo Corozo,Chelsea,
+242,Kiernan Dewsbury-Hall,Chelsea,
+243,Tyrique George,Chelsea,
+244,Roméo Lavia,Chelsea,
+245,Mykhailo Mudryk,Chelsea,
+246,Andrey Nascimento dos Santos,Chelsea,
+247,Dário Luís Essugo,Chelsea,
+248,Kendry Páez Andrade,Chelsea,
+249,João Pedro Junqueira de Jesus,Chelsea,
+250,Liam Delap,Chelsea,
+251,Nicolas Jackson,Chelsea,
+252,Marc Guiu Paz,Chelsea,
+253,Dean Henderson,Crystal Palace,
+254,Walter Benítez,Crystal Palace,
+255,Remi Matthews,Crystal Palace,
+256,Daniel Muñoz Mejía,Crystal Palace,
+257,Maxence Lacroix,Crystal Palace,
+258,Tyrick Mitchell,Crystal Palace,
+259,Borna Sosa,Crystal Palace,
+260,Marc Guéhi,Crystal Palace,
+261,Chris Richards,Crystal Palace,
+262,Chadi Riad Dnanou,Crystal Palace,
+263,Nathaniel Clyne,Crystal Palace,
+264,Rob Holding,Crystal Palace,
+265,Caleb Kporha,Crystal Palace,
+266,Eberechi Eze,Crystal Palace,
+267,Ismaïla Sarr,Crystal Palace,
+268,Cheick Doucouré,Crystal Palace,
+269,Romain Esse,Crystal Palace,
+270,Will Hughes,Crystal Palace,
+271,Daichi Kamada,Crystal Palace,
+272,Jefferson Lerma Solís,Crystal Palace,
+273,Adam Wharton,Crystal Palace,
+274,Asher Agbinone,Crystal Palace,
+275,Naouirou Ahamada,Crystal Palace,
+276,Justin Devenny,Crystal Palace,
+277,Malcolm Ebiowei,Crystal Palace,
+278,Jesurun Rak-Sakyi,Crystal Palace,
+279,Matheus França de Oliveira,Crystal Palace,
+280,David Ozoh,Crystal Palace,
+281,Kaden Rodney,Crystal Palace,
+282,Franco Umeh-Chibueze,Crystal Palace,
+283,Jean-Philippe Mateta,Crystal Palace,
+284,Eddie Nketiah,Crystal Palace,
+285,Odsonne Édouard,Crystal Palace,
+286,Zach Marsh,Crystal Palace,
+287,Jordan Pickford,Everton,
+288,Mark Travers,Everton,
+289,Harry Tyrer,Everton,
+290,Jarrad Branthwaite,Everton,
+291,James Tarkowski,Everton,
+292,Vitalii Mykolenko,Everton,
+293,Jake O'Brien,Everton,
+294,Séamus Coleman,Everton,
+295,Michael Keane,Everton,
+296,Nathan Patterson,Everton,
+297,Roman Dixon,Everton,
+298,Reece Welch,Everton,
+299,Iliman Ndiaye,Everton,
+300,Dwight McNeil,Everton,
+301,Carlos Alcaraz Durán,Everton,
+302,Idrissa Gana Gueye,Everton,
+303,James Garner,Everton,
+304,Tim Iroegbunam,Everton,
+305,Harrison Armstrong,Everton,
+306,Callum Bates,Everton,
+307,Coby Ebere,Everton,
+308,Isaac Heath,Everton,
+309,Jenson Metcalfe,Everton,
+310,Thierno Barry,Everton,
+311,Norberto Bercique Gomes Betuncal,Everton,
+312,Youssef Ramalho Chermiti,Everton,
+313,Martin Sherif,Everton,
+314,Bernd Leno,Fulham,
+315,Steven Benda,Fulham,
+316,Antonee Robinson,Fulham,
+317,Joachim Andersen,Fulham,
+318,Calvin Bassey,Fulham,
+319,Timothy Castagne,Fulham,
+320,Issa Diop,Fulham,
+321,Jorge Cuenca Barreno,Fulham,
+322,Kenny Tete,Fulham,
+323,Samuel Amissah,Fulham,
+324,Alex Iwobi,Fulham,
+325,Emile Smith Rowe,Fulham,
+326,Adama Traoré Diarra,Fulham,
+327,Andreas Hoelgebaum Pereira,Fulham,
+328,Ryan Sessegnon,Fulham,
+329,Harry Wilson,Fulham,
+330,Sander Berge,Fulham,
+331,Tom Cairney,Fulham,
+332,Saša Lukić,Fulham,
+333,Martial Godo,Fulham,
+334,Luke Harris,Fulham,
+335,Josh King,Fulham,
+336,Harrison Reed,Fulham,
+337,Raúl Jiménez Rodríguez,Fulham,
+338,Rodrigo Muniz Carvalho,Fulham,
+339,Illan Meslier,Leeds,
+340,Alex Cairns,Leeds,
+341,Karl Darlow,Leeds,
+342,Jayden Bogle,Leeds,
+343,Pascal Struijk,Leeds,
+344,Jaka Bijol,Leeds,
+345,Sebastiaan Bornauw,Leeds,
+346,Sam Byram,Leeds,
+347,Gabriel Gudmundsson,Leeds,
+348,Joe Rodon,Leeds,
+349,Isaac Schmidt,Leeds,
+350,Brenden Aaronson,Leeds,
+351,Wilfried Gnonto,Leeds,
+352,Jack Harrison,Leeds,
+353,Daniel James,Leeds,
+354,Ethan Ampadu,Leeds,
+355,Sam Greenwood,Leeds,
+356,Ilia Gruev,Leeds,
+357,Largie Ramazani,Leeds,
+358,Tanaka Ao,Leeds,
+359,Charlie Crew,Leeds,
+360,Joe Gelhardt,Leeds,
+361,Darko Gyabi,Leeds,
+362,Joël Piroe,Leeds,
+363,Patrick Bamford,Leeds,
+364,Mateo Joseph Fernández-Regatillo,Leeds,
+365,Lukas Nmecha,Leeds,
+366,Alisson Becker,Liverpool,
+367,Giorgi Mamardashvili,Liverpool,
+368,Ármin Pécsi,Liverpool,
+369,Freddie Woodman,Liverpool,
+370,Jeremie Frimpong,Liverpool,
+371,Milos Kerkez,Liverpool,
+372,Andrew Robertson,Liverpool,
+373,Virgil van Dijk,Liverpool,
+374,Ibrahima Konaté,Liverpool,
+375,Conor Bradley,Liverpool,
+376,Joe Gomez,Liverpool,
+377,Konstantinos Tsimikas,Liverpool,
+378,Amara Nallo,Liverpool,
+379,Rhys Williams,Liverpool,
+380,Calvin Ramsay,Liverpool,
+381,Mohamed Salah,Liverpool,
+382,Florian Wirtz,Liverpool,
+383,Luis Díaz Marulanda,Liverpool,
+384,Cody Gakpo,Liverpool,
+385,Federico Chiesa,Liverpool,
+386,Alexis Mac Allister,Liverpool,
+387,Dominik Szoboszlai,Liverpool,
+388,Curtis Jones,Liverpool,
+389,Harvey Elliott,Liverpool,
+390,Ryan Gravenberch,Liverpool,
+391,Ben Doak,Liverpool,
+392,Endo Wataru,Liverpool,
+393,Stefan Bajčetić Maquieira,Liverpool,
+394,James McConnell,Liverpool,
+395,Tyler Morton,Liverpool,
+396,Trey Nyoni,Liverpool,
+397,Darwin Núñez Ribeiro,Liverpool,
+398,Jayden Danns,Liverpool,
+399,Ederson Santana de Moraes,Man City,
+400,Stefan Ortega Moreno,Man City,
+401,Marcus Bettinelli,Man City,
+402,Rayan Aït-Nouri,Man City,
+403,Joško Gvardiol,Man City,
+404,Manuel Akanji,Man City,
+405,Nathan Aké,Man City,
+406,Abdukodir Khusanov,Man City,
+407,Matheus Nunes,Man City,
+408,Rúben dos Santos Gato Alves Dias,Man City,
+409,John Stones,Man City,
+410,Rico Lewis,Man City,
+411,Nico O'Reilly,Man City,
+412,Vitor de Oliveira Nunes dos Reis,Man City,
+413,Omar Marmoush,Man City,
+414,Phil Foden,Man City,
+415,Sávio Moreira de Oliveira,Man City,
+416,Bernardo Mota Veiga de Carvalho e Silva,Man City,
+417,Rayan Cherki,Man City,
+418,Jérémy Doku,Man City,
+419,Jack Grealish,Man City,
+420,İlkay Gündoğan,Man City,
+421,Rodrigo 'Rodri' Hernandez Cascante,Man City,
+422,Mateo Kovačić,Man City,
+423,Nico González Iglesias,Man City,
+424,Oscar Bobb,Man City,
+425,Claudio Echeverri,Man City,
+426,James McAtee,Man City,
+427,Tijjani Reijnders,Man City,
+428,Sverre Nypan,Man City,
+429,Kalvin Phillips,Man City,
+430,Erling Haaland,Man City,
+431,Altay Bayındır,Man Utd,
+432,André Onana,Man Utd,
+433,Elyh Harrison,Man Utd,
+434,Tom Heaton,Man Utd,
+435,Dermot Mee,Man Utd,
+436,Matthijs de Ligt,Man Utd,
+437,Lisandro Martínez,Man Utd,
+438,Noussair Mazraoui,Man Utd,
+439,Diego León Blanco,Man Utd,
+440,Diogo Dalot Teixeira,Man Utd,
+441,Patrick Dorgu,Man Utd,
+442,Harry Maguire,Man Utd,
+443,Luke Shaw,Man Utd,
+444,Leny Yoro,Man Utd,
+445,Harry Amass,Man Utd,
+446,Tyler Fredricson,Man Utd,
+447,Ayden Heaven,Man Utd,
+448,Tyrell Malacia,Man Utd,
+449,Bruno Borges Fernandes,Man Utd,
+450,Matheus Santos Carneiro da Cunha,Man Utd,
+451,Marcus Rashford,Man Utd,
+452,Amad Diallo,Man Utd,
+453,Alejandro Garnacho Ferreyra,Man Utd,
+454,Antony dos Santos,Man Utd,
+455,Mason Mount,Man Utd,
+456,Jadon Sancho,Man Utd,
+457,Carlos Henrique Casimiro,Man Utd,
+458,Kobbie Mainoo,Man Utd,
+459,Manuel Ugarte Ribeiro,Man Utd,
+460,Toby Collyer,Man Utd,
+461,Jayce Fitzgerald,Man Utd,
+462,Jack Fletcher,Man Utd,
+463,Sékou Koné,Man Utd,
+464,Jack Moorhouse,Man Utd,
+465,Rasmus Højlund,Man Utd,
+466,Joshua Zirkzee,Man Utd,
+467,Chido Obi,Man Utd,
+468,Ethan Wheatley,Man Utd,
+469,Nick Pope,Newcastle,
+470,Martin Dúbravka,Newcastle,
+471,Mark Gillespie,Newcastle,
+472,Odysseas Vlachodimos,Newcastle,
+473,Lewis Hall,Newcastle,
+474,Fabian Schär,Newcastle,
+475,Sven Botman,Newcastle,
+476,Dan Burn,Newcastle,
+477,Tino Livramento,Newcastle,
+478,Kieran Trippier,Newcastle,
+479,Emil Krafth,Newcastle,
+480,Jamaal Lascelles,Newcastle,
+481,Alex Murphy,Newcastle,
+482,Harrison Ashby,Newcastle,
+483,Miodrag Pivaš,Newcastle,
+484,Matt Targett,Newcastle,
+485,Anthony Gordon,Newcastle,
+486,Anthony Elanga,Newcastle,
+487,Harvey Barnes,Newcastle,
+488,Bruno Guimarães Rodriguez Moura,Newcastle,
+489,Jacob Murphy,Newcastle,
+490,Joelinton Cássio Apolinário de Lira,Newcastle,
+491,Sandro Tonali,Newcastle,
+492,Antoñito Cordero Campillo,Newcastle,
+493,Sean Longstaff,Newcastle,
+494,Joe Willock,Newcastle,
+495,Isaac Hayden,Newcastle,
+496,Garang Kuol,Newcastle,
+497,Lewis Miley,Newcastle,
+498,Joe White,Newcastle,
+499,Alexander Isak,Newcastle,
+500,William Osula,Newcastle,
+501,Sean Neave,Newcastle,
+502,Matz Sels,Nott'm Forest,
+503,Carlos Miguel dos Santos Pereira,Nott'm Forest,
+504,Matt Turner,Nott'm Forest,
+505,Nikola Milenković,Nott'm Forest,
+506,Murillo Costa dos Santos,Nott'm Forest,
+507,Ola Aina,Nott'm Forest,
+508,Neco Williams,Nott'm Forest,
+509,David Mota Veiga Teixeira do Carmo,Nott'm Forest,
+510,Jair Paula da Cunha Filho,Nott'm Forest,
+511,Felipe Rodrigues da Silva,Nott'm Forest,
+512,Omar Richards,Nott'm Forest,
+513,Zach Abbott,Nott'm Forest,
+514,Willy Boly,Nott'm Forest,
+515,Morgan Gibbs-White,Nott'm Forest,
+516,Callum Hudson-Odoi,Nott'm Forest,
+517,Elliot Anderson,Nott'm Forest,
+518,João Pedro Ferreira da Silva,Nott'm Forest,
+519,Nicolás Domínguez,Nott'm Forest,
+520,Lewis O'Brien,Nott'm Forest,
+521,Ibrahim Sangaré,Nott'm Forest,
+522,Ryan Yates,Nott'm Forest,
+523,Eric da Silva Moreira,Nott'm Forest,
+524,Marko Stamenić,Nott'm Forest,
+525,Chris Wood,Nott'm Forest,
+526,Igor Jesus Maciel da Cruz,Nott'm Forest,
+527,Taiwo Awoniyi,Nott'm Forest,
+528,Anthony Patterson,Sunderland,
+529,Simon Moore,Sunderland,
+530,Blondy Nna Noukeu,Sunderland,
+531,Daniel Ballard,Sunderland,
+532,Trai Hume,Sunderland,
+533,Aji Alese,Sunderland,
+534,Joe Anderson,Sunderland,
+535,Dennis Cirkin,Sunderland,
+536,Leo Fuhr Hjelde,Sunderland,
+537,Niall Huggins,Sunderland,
+538,Zak Johnson,Sunderland,
+539,Luke O'Nien,Sunderland,
+540,Timothée Pembélé,Sunderland,
+541,Reinildo Mandava,Sunderland,
+542,Jenson Seelt,Sunderland,
+543,Simon Adingra,Sunderland,
+544,Habib Diarra,Sunderland,
+545,Patrick Roberts,Sunderland,
+546,Milan Aleksić,Sunderland,
+547,Enzo Le Fée,Sunderland,
+548,Romaine Mundle,Sunderland,
+549,Dan Neil,Sunderland,
+550,Ian Poveda-Ocampo,Sunderland,
+551,Chris Rigg,Sunderland,
+552,Noah Sadiki,Sunderland,
+553,Chemsdine Talbi,Sunderland,
+554,Abdoullah Ba,Sunderland,
+555,Alan Browne,Sunderland,
+556,Pierre Ekwah Elimby,Sunderland,
+557,Harrison Jones,Sunderland,
+558,Jay Matete,Sunderland,
+559,Nectarios Triantis,Sunderland,
+560,Wilson Isidor,Sunderland,
+561,Eliezer Mayenda Dossou,Sunderland,
+562,Ahmed Abdullahi,Sunderland,
+563,Luís Hemir Silva Semedo,Sunderland,
+564,Nazarii Rusyn,Sunderland,
+565,Guglielmo Vicario,Spurs,
+566,Brandon Austin,Spurs,
+567,Antonín Kinský,Spurs,
+568,Pedro Porro Sauceda,Spurs,
+569,Cristian Romero,Spurs,
+570,Kevin Danso,Spurs,
+571,Ben Davies,Spurs,
+572,Radu Drăgușin,Spurs,
+573,Djed Spence,Spurs,
+574,Destiny Udogie,Spurs,
+575,Micky van de Ven,Spurs,
+576,Ashley Phillips,Spurs,
+577,Takai Kōta,Spurs,
+578,Luka Vušković,Spurs,
+579,Son Heung-min,Spurs,
+580,Brennan Johnson,Spurs,
+581,James Maddison,Spurs,
+582,Mohammed Kudus,Spurs,
+583,Dejan Kulusevski,Spurs,
+584,Mathys Tel,Spurs,
+585,Rodrigo Bentancur,Spurs,
+586,Lucas Bergvall,Spurs,
+587,Yves Bissouma,Spurs,
+588,Wilson Odobert,Spurs,
+589,Manor Solomon,Spurs,
+590,Bryan Gil Salvatierra,Spurs,
+591,Archie Gray,Spurs,
+592,Mikey Moore,Spurs,
+593,Pape Matar Sarr,Spurs,
+594,Yang Min-hyeok,Spurs,
+595,Callum Olusesi,Spurs,
+596,Dominic Solanke-Mitchell,Spurs,
+597,Richarlison de Andrade,Spurs,
+598,Will Lankshear,Spurs,
+599,Dane Scarlett,Spurs,
+600,Alphonse Areola,West Ham,
+601,Wes Foderingham,West Ham,
+602,Krisztián Hegyi,West Ham,
+603,El Hadji Malick Diouf,West Ham,
+604,Emerson Palmieri dos Santos,West Ham,
+605,Maximilian Kilman,West Ham,
+606,Konstantinos Mavropanos,West Ham,
+607,Nayef Aguerd,West Ham,
+608,Ollie Scarles,West Ham,
+609,Jean-Clair Todibo,West Ham,
+610,Aaron Wan-Bissaka,West Ham,
+611,Kaelan Casey,West Ham,
+612,Lucas Tolentino Coelho de Lima,West Ham,
+613,Tomáš Souček,West Ham,
+614,James Ward-Prowse,West Ham,
+615,Crysencio Summerville,West Ham,
+616,Edson Álvarez Velázquez,West Ham,
+617,Maxwel Cornet,West Ham,
+618,Guido Rodríguez,West Ham,
+619,Luis Guilherme Lira dos Santos,West Ham,
+620,George Earthy,West Ham,
+621,Andy Irving,West Ham,
+622,Lewis Orford,West Ham,
+623,Freddie Potts,West Ham,
+624,Jarrod Bowen,West Ham,
+625,Niclas Füllkrug,West Ham,
+626,Callum Marshall,West Ham,
+627,Sam Johnstone,Wolves,
+628,José Malheiro de Sá,Wolves,
+629,Daniel Bentley,Wolves,
+630,Tom King,Wolves,
+631,Emmanuel Agbadou,Wolves,
+632,Matt Doherty,Wolves,
+633,Hugo Bueno López,Wolves,
+634,Yerson Mosquera Valdelamar,Wolves,
+635,Rodrigo Martins Gomes,Wolves,
+636,Santiago Ignacio Bueno,Wolves,
+637,Toti Gomes,Wolves,
+638,Ki-Jana Hoever,Wolves,
+639,Bastien Meupiyou Menadjou,Wolves,
+640,Pedro Cardoso de Lima,Wolves,
+641,Alfie Pond,Wolves,
+642,Hwang Hee-chan,Wolves,
+643,André Trindade da Costa Neto,Wolves,
+644,Jean-Ricner Bellegarde,Wolves,
+645,Fer López González,Wolves,
+646,João Victor Gomes da Silva,Wolves,
+647,Gonçalo Manuel Ganchinho Guedes,Wolves,
+648,Marshall Munetsi,Wolves,
+649,Boubacar Traoré,Wolves,
+650,Tawanda Chirewa,Wolves,
+651,Tom Edozie,Wolves,
+652,Enso González Medina,Wolves,
+653,Joe Hodge,Wolves,
+654,Jørgen Strand Larsen,Wolves,
+655,Fábio Soares Silva,Wolves,
+656,Saša Kalajdžić,Wolves,
+657,Leon Chiwome,Wolves,
+658,Nathan Fraser,Wolves,
